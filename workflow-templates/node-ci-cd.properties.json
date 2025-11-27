@@ -1,0 +1,13 @@
+{
+  "name": "Node.js CI/CD Pipeline",
+  "description": "Complete CI/CD pipeline for Node.js applications with testing and Azure deployment",
+  "iconName": "nodejs",
+  "categories": [
+    "Deployment",
+    "JavaScript",
+    "Azure"
+  ],
+  "filePatterns": [
+    "package.json"
+  ]
+}

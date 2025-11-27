@@ -1,0 +1,13 @@
+{
+  "name": "Azure Bicep Deployment",
+  "description": "Deploy Azure infrastructure using Bicep templates with validation",
+  "iconName": "azure",
+  "categories": [
+    "Deployment",
+    "Azure",
+    "Infrastructure"
+  ],
+  "filePatterns": [
+    "infrastructure/**/*.bicep"
+  ]
+}

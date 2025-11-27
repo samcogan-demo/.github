@@ -1,0 +1,13 @@
+{
+  "name": "Terraform Plan & Apply",
+  "description": "Terraform workflow with plan on PR and apply on merge to main",
+  "iconName": "terraform",
+  "categories": [
+    "Deployment",
+    "Azure",
+    "Infrastructure"
+  ],
+  "filePatterns": [
+    "terraform/**/*.tf"
+  ]
+}

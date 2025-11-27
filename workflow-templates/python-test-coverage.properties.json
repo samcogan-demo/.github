@@ -1,0 +1,13 @@
+{
+  "name": "Python Test & Coverage",
+  "description": "Run Python tests with coverage reporting across multiple Python versions",
+  "iconName": "python",
+  "categories": [
+    "Python",
+    "Testing"
+  ],
+  "filePatterns": [
+    "requirements.txt",
+    "*.py"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Docker Build & Push to GHCR",
+  "description": "Build Docker images and push to GitHub Container Registry with security scanning",
+  "iconName": "docker",
+  "categories": [
+    "Deployment",
+    "Docker"
+  ],
+  "filePatterns": [
+    "Dockerfile",
+    "docker-compose.yml"
+  ]
+}
