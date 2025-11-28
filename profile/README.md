@@ -12,8 +12,8 @@ templates, trying out a new workflow, or contributing a small improvement,
 you've come to the right place. 🎉
 
 Resources 📚
-- **Code of Conduct:** `CODE_OF_CONDUCT.md` — community standards and reporting.
-- **Contributing Guide:** `CONTRIBUTING.md` — how to file issues and contribute.
+- **Code of Conduct:** `.github/CODE_OF_CONDUCT.md` — community standards and reporting.
+- **Contributing Guide:** `.github/CONTRIBUTING.md` — how to file issues and contribute.
 
 Purpose 🎯
 - Provide a friendly sandbox for demos, workshops, and examples.
