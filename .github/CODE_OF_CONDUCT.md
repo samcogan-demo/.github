@@ -15,7 +15,7 @@ Unacceptable Behavior
 - Publishing private information without consent.
 
 Enforcement
-- If someone violates this Code of Conduct maintainers may take any action they
+- If someone violates this Code of Conduct, maintainers may take any action they
   deem appropriate, from asking the person to stop, to temporary or permanent
   removal from the project.
 
